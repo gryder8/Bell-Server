@@ -1080,13 +1080,13 @@
 				<key>desc</key>
 				<string>Passing to Period 4</string>
 				<key>timeInterval</key>
-				<integer>48600</integer>
+				<integer>45000</integer>
 			</dict>
 			<dict>
 				<key>desc</key>
 				<string>Period 4</string>
 				<key>timeInterval</key>
-				<integer>48900</integer>
+				<integer>45300</integer>
 			</dict>
 			<dict>
 				<key>desc</key>
