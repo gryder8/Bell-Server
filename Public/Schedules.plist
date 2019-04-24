@@ -1218,13 +1218,13 @@
 			</dict>
 			<dict>
 				<key>desc</key>
-				<string>Passing to SBAC/CAST</string>
+				<string>Passing to SBAC Testing</string>
 				<key>timeInterval</key>
 				<real>29100</real>
 			</dict>
 			<dict>
 				<key>desc</key>
-				<string>SBAC/CAST Testing</string>
+				<string>SBAC Testing</string>
 				<key>timeInterval</key>
 				<real>29400</real>
 			</dict>
