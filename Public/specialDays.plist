@@ -128,6 +128,18 @@
 	</dict>
 	<dict>
 		<key>scheduleType</key>
+		<string>Even Block</string>
+		<key>beginDate</key>
+		<date>2019-06-03T07:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
+		<string>Odd Block</string>
+		<key>beginDate</key>
+		<date>2019-06-04T07:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
 		<string>SBAC (Wed/Fri)</string>
 		<key>beginDate</key>
 		<date>2019-04-26T07:00:00Z</date>
