@@ -14,6 +14,12 @@
 	</dict>
 	<dict>
 		<key>scheduleType</key>
+		<string>Assembly</string>
+		<key>beginDate</key>
+		<date>2020-08-23T07:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
 		<string>Holiday</string>
 		<key>beginDate</key>
 		<date>2019-09-02T07:00:00Z</date>
@@ -147,16 +153,6 @@
 		<date>2020-03-17T07:00:00Z</date>
 		<key>desc</key>
 		<string>Teacher In-Service</string>
-	</dict>
-	<dict>
-		<key>scheduleType</key>
-		<string>Holiday</string>
-		<key>beginDate</key>
-		<date>2019-06-10T07:00:00Z</date>
-		<key>endDate</key>
-		<date>2019-08-19T07:00:00Z</date>
-		<key>desc</key>
-		<string>Summer!</string>
 	</dict>
 	<dict>
 		<key>scheduleType</key>
