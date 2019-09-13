@@ -30,6 +30,26 @@
 		<key>scheduleType</key>
 		<string>Tutorial</string>
 		<key>beginDate</key>
+		<date>2019-09-15T07:00:00Z</date>
+		<key>desc</key>
+		<string>Code Red Drill</string>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
+		<string>Modified Even Block</string>
+		<key>beginDate</key>
+		<date>2019-09-18T07:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
+		<string>Modified Odd Block</string>
+		<key>beginDate</key>
+		<date>2019-09-19T07:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
+		<string>Tutorial</string>
+		<key>beginDate</key>
 		<date>2019-09-24T07:00:00Z</date>
 		<key>desc</key>
 		<string>STEAM Speakers</string>
