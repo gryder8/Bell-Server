@@ -49,8 +49,6 @@
 		<string>Extended Tutorial</string>
 		<key>beginDate</key>
 		<date>2019-09-24T07:00:00Z</date>
-		<key>desc</key>
-		<string>STEAM Speakers</string>
 	</dict>
 	<dict>
 		<key>scheduleType</key>
@@ -75,8 +73,6 @@
 		<string>Minimum Day</string>
 		<key>beginDate</key>
 		<date>2019-10-25T07:00:00Z</date>
-		<key>desc</key>
-		<string>Homecoming</string>
 	</dict>
 	<dict>
 		<key>scheduleType</key>
