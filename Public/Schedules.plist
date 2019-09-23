@@ -1290,5 +1290,144 @@
 			</dict>
 		</array>
 	</dict>
+	<dict>
+		<key>scheduleType</key>
+		<string>Extended Tutorial</string>
+		<key>bellTimes</key>
+		<array>
+			<dict>
+				<key>desc</key>
+				<string>Before School</string>
+				<key>timeInterval</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 0</string>
+				<key>timeInterval</key>
+				<real>26400</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 0</string>
+				<key>timeInterval</key>
+				<real>26700</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 1</string>
+				<key>timeInterval</key>
+				<integer>29100</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 1</string>
+				<key>timeInterval</key>
+				<integer>29400</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 2</string>
+				<key>timeInterval</key>
+				<integer>31800</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 2</string>
+				<key>timeInterval</key>
+				<real>32100</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Brunch</string>
+				<key>timeInterval</key>
+				<integer>34800</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 3</string>
+				<key>timeInterval</key>
+				<integer>35400</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 3</string>
+				<key>timeInterval</key>
+				<integer>35700</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Tutorial</string>
+				<key>timeInterval</key>
+				<integer>38100</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Tutorial</string>
+				<key>timeInterval</key>
+				<integer>38400</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 4</string>
+				<key>timeInterval</key>
+				<real>41400</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 4</string>
+				<key>timeInterval</key>
+				<real>41700</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Lunch</string>
+				<key>timeInterval</key>
+				<integer>44100</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 5</string>
+				<key>timeInterval</key>
+				<integer>46800</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 5</string>
+				<key>timeInterval</key>
+				<integer>47100</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 6</string>
+				<key>timeInterval</key>
+				<real>49500</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 6</string>
+				<key>timeInterval</key>
+				<integer>49800</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to Period 7</string>
+				<key>timeInterval</key>
+				<real>52200</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Period 7</string>
+				<key>timeInterval</key>
+				<integer>52500</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>After School</string>
+				<key>timeInterval</key>
+				<integer>54900</integer>
+			</dict>
+		</array>
+	</dict>
 </array>
 </plist>
