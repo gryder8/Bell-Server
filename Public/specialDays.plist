@@ -60,6 +60,12 @@
 	</dict>
 	<dict>
 		<key>scheduleType</key>
+		<string>Normal</string>
+		<key>beginDate</key>
+		<date>2019-09-26T07:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
 		<string>Tutorial</string>
 		<key>beginDate</key>
 		<date>2019-10-14T07:00:00Z</date>
