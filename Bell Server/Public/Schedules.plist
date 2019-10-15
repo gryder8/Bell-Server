@@ -1429,5 +1429,36 @@
 			</dict>
 		</array>
 	</dict>
+	<dict>
+		<key>scheduleType</key>
+		<string>PSAT</string>
+		<key>bellTimes</key>
+		<array>
+			<dict>
+				<key>desc</key>
+				<string>Before School</string>
+				<key>timeInterval</key>
+				<integer>1</integer>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>Passing to PSAT Testing</string>
+				<key>timeInterval</key>
+				<real>29100</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>PSAT</string>
+				<key>timeInterval</key>
+				<real>29400</real>
+			</dict>
+			<dict>
+				<key>desc</key>
+				<string>After School</string>
+				<key>timeInterval</key>
+				<integer>45000</integer>
+			</dict>
+		</array>
+	</dict>
 </array>
 </plist>
