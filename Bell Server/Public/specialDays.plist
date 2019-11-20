@@ -106,6 +106,18 @@
 	</dict>
 	<dict>
 		<key>scheduleType</key>
+		<string>Extended Tutorial</string>
+		<key>beginDate</key>
+		<date>2019-11-26T08:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
+		<string>Extended Tutorial</string>
+		<key>beginDate</key>
+		<date>2019-11-25T08:00:00Z</date>
+	</dict>
+	<dict>
+		<key>scheduleType</key>
 		<string>Finals - Wednesday</string>
 		<key>beginDate</key>
 		<date>2019-12-18T08:00:00Z</date>
