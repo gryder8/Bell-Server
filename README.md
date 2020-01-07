@@ -19,4 +19,4 @@
     </a>
 </p>
 
-**Vapor is scheduled to shutdown February 2020 and hosting for the BellTimer app is no longer done through this repository and Vapor**
+**Note: Vapor is scheduled to shutdown February 2020 and hosting for the BellTimer app is no longer done through this repository**
